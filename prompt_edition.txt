@@ -1,0 +1,1 @@
+Le fichier doit s’appeler recap-horlogerie-semaine-JJ-JJ-mois-AAAA.html. La balise <title> doit être « Récap Horlogerie — Semaine du X au Y ». Ajoute une balise og:description d’une phrase résumant l’édition.
